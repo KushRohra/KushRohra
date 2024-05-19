@@ -29,6 +29,8 @@ jobs:
           pip install requests matplotlib
 
       - name: Run script to generate language chart
+        env:
+          SECRET_TOKEN: ${{ secrets.SECRET_TOKEN }}
         run: python generate_language_chart.py
 
       - name: Commit and push changes
