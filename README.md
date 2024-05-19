@@ -1,5 +1,9 @@
 <a href="https://app.daily.dev/kushrohrakushrohra"><img src="./devcard.png" width="356" alt="Kush Rohra's Dev Card"/></a>
 
+## Languages Used
+
+![Languages used in the repository](language_chart.png)
+
 <!--
 **KushRohra/KushRohra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
